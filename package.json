@@ -1,0 +1,11 @@
+{
+  "name": "generator-toolchain",
+  "version": "1.0.0",
+  "main": "generators/app/index.js",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
